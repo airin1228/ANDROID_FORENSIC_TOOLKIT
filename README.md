@@ -1,4 +1,7 @@
 # AFT – Android Forensics Toolkit
+Owner / Author: **Airin Thomas** / **airin1228**
+Copyright © 2026 Airin Thomas.
+All rights reserved.
 
 AFT is a small, local web application for examining an Android phone. It connects to the phone over USB using **ADB** (Android Debug Bridge), reads call logs, SMS, browser history and application usage, lets you import the same kinds of data from CSV files or browser databases, and produces a printable HTML report with integrity hashes.
 
