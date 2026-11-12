@@ -1,5 +1,5 @@
 # AFT – Android Forensics Toolkit
-Owner / Author: **Airin Thomas** / **airin1228**
+Owner / Author: **Airin Thomas / airin1228**
 Copyright © 2026 Airin Thomas.
 All rights reserved.
 #
