@@ -1,0 +1,2 @@
+timestamp,app_name,package,event,duration,risk
+2026-10-12 08:35,Chrome,com.android.chrome,Foreground session,00:14:22,Low
